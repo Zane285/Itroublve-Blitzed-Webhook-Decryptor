@@ -1,0 +1,11 @@
+C:\Users\atrew\source\repos\MultiDecryptor\MultiDecryptor\bin\Release\MultiDecryptor.exe.config
+C:\Users\atrew\source\repos\MultiDecryptor\MultiDecryptor\bin\Release\MultiDecryptor.exe
+C:\Users\atrew\source\repos\MultiDecryptor\MultiDecryptor\bin\Release\MultiDecryptor.pdb
+C:\Users\atrew\source\repos\MultiDecryptor\MultiDecryptor\bin\Release\dnlib.dll
+C:\Users\atrew\source\repos\MultiDecryptor\MultiDecryptor\bin\Release\dnlib.xml
+C:\Users\atrew\source\repos\MultiDecryptor\MultiDecryptor\obj\Release\MultiDecryptor.csproj.AssemblyReference.cache
+C:\Users\atrew\source\repos\MultiDecryptor\MultiDecryptor\obj\Release\MultiDecryptor.csproj.SuggestedBindingRedirects.cache
+C:\Users\atrew\source\repos\MultiDecryptor\MultiDecryptor\obj\Release\MultiDecryptor.csproj.CoreCompileInputs.cache
+C:\Users\atrew\source\repos\MultiDecryptor\MultiDecryptor\obj\Release\MultiDecryptor.csproj.CopyComplete
+C:\Users\atrew\source\repos\MultiDecryptor\MultiDecryptor\obj\Release\MultiDecryptor.exe
+C:\Users\atrew\source\repos\MultiDecryptor\MultiDecryptor\obj\Release\MultiDecryptor.pdb
